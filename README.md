@@ -1,6 +1,4 @@
-# React + Vite
-
-# Kitsu Project
+# Anime-Watch Project
 
 ## Table of Contents
 
